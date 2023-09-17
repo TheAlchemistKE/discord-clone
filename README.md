@@ -29,7 +29,7 @@ This is a repository for Fullstack Discord Clone built in: Next.js 13, React, So
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-discord-clone.git
+git clone https://github.com/TheAlchemistKE/discord-clone.git
 ```
 
 ### Install packages
